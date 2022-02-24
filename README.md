@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bekirciftler
+- 👀 I’m interested in SAP ABAP, JavaScript, html, css, flutter, react
+- 🌱 I’m currently learning SAP ABAP, JavaScript
+- 💞️ I’m looking to collaborate on SAP
+- 📫 How to reach me: bekirciftler123@gmail.com
